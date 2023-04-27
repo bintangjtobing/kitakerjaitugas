@@ -49,14 +49,14 @@
     <meta name="og:url" property="og:url" content="{{Request::url()}}" />
     <meta name="og:type" property="og:type" content="website" />
     <meta name="og:image" property="og:image"
-        content="https://res.cloudinary.com/boxity-id/image/upload/v1642815378/assets/site%20needs/tag_cover_hsiapv.jpg" />
+        content="{{asset('webpage/asset/tag-cover.jpg')}}" />
     <meta name="og:description" property="og:description" content="Tuntaskan tugasmu, dengan mempercayakan kepada kami dalam pengerjaan skripsi, jurnal, pengolahan data, perbaikin data, design, powerpoint, dan lain lain" />
     <meta name="twitter:card" content="KitaKerjainTugas" />
     <meta name="twitter:title" property="og:title" content="KitaKerjainTugas" />
     <meta name="twitter:url" property="og:url" content="{{Request::url()}}" />
     <meta name="twitter:type" property="og:type" content="website" />
     <meta name="twitter:image" property="og:image"
-        content="https://res.cloudinary.com/boxity-id/image/upload/v1642815378/assets/site%20needs/tag_cover_hsiapv.jpg" />
+        content="{{asset('webpage/asset/tag-cover.jpg')}}" />
     <meta name="twitter:description" property="og:description" content="Tuntaskan tugasmu, dengan mempercayakan kepada kami dalam pengerjaan skripsi, jurnal, pengolahan data, perbaikin data, design, powerpoint, dan lain lain" />
     <link rel="canonical" href="{{Request::url()}}/" />
     <link rel="shortcut icon"
