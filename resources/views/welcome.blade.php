@@ -18,7 +18,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&family=Merriweather:wght@400;700&family=Material+Symbols+Outlined&display=swap" rel="stylesheet">
 
 	<!-- Core Style -->
-	<link rel="stylesheet" href="{{asset('webpage/style.css')}}">
+	<link rel="stylesheet" href="{{asset('webpage/style-min.css')}}">
 
 	<!-- Font Icons -->
 	<link rel="stylesheet" href="{{asset('webpage/css/font-icons.css')}}">
