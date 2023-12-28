@@ -12282,8 +12282,8 @@ textarea.form-control-lg {
   }
 }
 :root {
-  --cnvs-themecolor:	#161616;
-  --cnvs-themecolor-rgb:	131, 179, 65;
+  --cnvs-themecolor:	rgb(25, 25, 112);
+  --cnvs-themecolor-rgb:	25, 25, 112;
   --bs-link-color:	var(--cnvs-themecolor);
   --bs-link-color-rgb:	var(--cnvs-themecolor-rgb);
   --bs-link-hover-color:	var(--cnvs-heading-color);
@@ -15990,7 +15990,7 @@ body:not(.is-expanded-menu) body:not(.primary-menu-open) .semi-transparent.trans
   font-family: var(--cnvs-primary-font);
   font-size: 36px;
   width: auto;
-  height: 80px;
+  height: 120px;
 }
 #logo a [class^=logo-] {
   display: none;
