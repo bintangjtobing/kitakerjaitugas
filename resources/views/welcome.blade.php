@@ -5,12 +5,12 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="author" content="runstatistik" />
+    <meta name="author" content="RUN Statistik by BoxityID" />
     <meta name="description"
         content="Statistik Batu Jaya: Solusi data lengkap untuk bisnis dan masyarakat. Tim ahli berpengalaman & bersertifikat, teknologi & metodologi terbaru." />
-    <meta name="keywords" content="runstatistik" />
+    <meta name="keywords" content="@yield('title') - RUN Statistik" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="copyright" content="runstatistik">
+    <meta name="copyright" content="RUN Statistik by BoxityID">
     <meta name="url" content="{{ Request::url() }}">
     <meta name="identifier-URL" content="{{ Request::url() }}">
 
@@ -47,15 +47,15 @@
         href="https://res.cloudinary.com/boxity-id/image/upload/w_1000/q_auto:best/f_auto/v1703784756/kkt-logo_exapfj.png">
 
     {{-- Meta --}}
-    <meta name="og:title" property="og:title" content="runstatistik" />
+    <meta name="og:title" property="og:title" content="@yield('title') - RUN Statistik" />
     <meta name="og:url" property="og:url" content="{{ Request::url() }}" />
     <meta name="og:type" property="og:type" content="website" />
     <meta name="og:image" property="og:image"
         content="https://res.cloudinary.com/boxity-id/image/upload/w_1000/q_auto:best/f_auto/v1703784757/tag-cover_pxfyip.jpg" />
     <meta name="og:description" property="og:description"
         content="Statistik Batu Jaya: Solusi data lengkap untuk bisnis dan masyarakat. Tim ahli berpengalaman & bersertifikat, teknologi & metodologi terbaru." />
-    <meta name="twitter:card" content="runstatistik" />
-    <meta name="twitter:title" property="og:title" content="runstatistik" />
+    <meta name="twitter:card" content="@yield('title') - RUN Statistik" />
+    <meta name="twitter:title" property="og:title" content="@yield('title') - RUN Statistik" />
     <meta name="twitter:url" property="og:url" content="{{ Request::url() }}" />
     <meta name="twitter:type" property="og:type" content="website" />
     <meta name="twitter:image" property="og:image"
