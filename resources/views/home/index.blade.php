@@ -2,7 +2,7 @@
 @section('title', 'Home')
 @section('content')
     <!-- Hero
-                                                                                                                      ============================================= -->
+                                                                                                                              ============================================= -->
     <section id="slider" class="slider-element dark min-vh-md-100 min-vh-75 include-header">
         <div class="slider-inner"
             style="background-image: linear-gradient(to bottom, rgba(0,0,0,.5), rgba(0,0,0,.3)), url('https://res.cloudinary.com/boxity-id/image/upload/w_1000/q_auto:best/f_auto/v1703784802/hero_htezkm.jpg');background-position: 50% 0;">
@@ -24,7 +24,7 @@
     </section>
 
     <!-- Content
-                                                                                                                    ============================================= -->
+                                                                                                                            ============================================= -->
     <section id="content">
         <div class="content-wrap overflow-visible py-0">
 
@@ -132,17 +132,16 @@
                                                 bidang
                                                 <select class="required form-select" name="lawfirm-inline-lawyer"
                                                     id="lawfirm-inline-lawyer">
-                                                    <option value="Instansi" selected>Instansi</option>
-                                                    <option value="Swasta" selected>Swasta</option>
-                                                    <option value="Negeri" selected>Negeri</option>
-                                                    <option value="Akademisi" selected>Akademisi</option>
+                                                    <option value="Bisnis" selected>Bisnis</option>
+                                                    <option value="Akademik" selected>Akademik</option>
+                                                    <option value="Instansi Negeri" selected>Instansi Negeri</option>
+                                                    <option value="Instansi Swasta" selected>Instansi Swasta</option>
+                                                    <option value="Komunitas" selected>Komunitas</option>
                                                 </select>
                                                 yang berlokasi di
                                                 <select class="required form-select" name="lawfirm-inline-industry"
                                                     id="lawfirm-inline-industry">
-                                                    <option value="Medan" selected>Medan</option>
-                                                    <option value="Jakarta">Jakarta</option>
-                                                    <option value="Bandung">Bandung</option>
+                                                    <option value="Indonesia" selected>Indonesia</option>
                                                 </select>
                                                 . Saya dapat dihubungi melalui
                                                 email
