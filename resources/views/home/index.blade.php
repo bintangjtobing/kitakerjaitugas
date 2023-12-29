@@ -2,7 +2,7 @@
 @section('title', 'Home')
 @section('content')
     <!-- Hero
-                                                                                                                              ============================================= -->
+                                                                                                                                  ============================================= -->
     <section id="slider" class="slider-element dark min-vh-md-100 min-vh-75 include-header">
         <div class="slider-inner"
             style="background-image: linear-gradient(to bottom, rgba(0,0,0,.5), rgba(0,0,0,.3)), url('https://res.cloudinary.com/boxity-id/image/upload/w_1000/q_auto:best/f_auto/v1703784802/hero_htezkm.jpg');background-position: 50% 0;">
@@ -24,7 +24,7 @@
     </section>
 
     <!-- Content
-                                                                                                                            ============================================= -->
+                                                                                                                                ============================================= -->
     <section id="content">
         <div class="content-wrap overflow-visible py-0">
 
@@ -208,7 +208,8 @@
                                                         src="{{ asset('webpage/demos/articles/images/authors/2.jpg') }}"
                                                         width="48" height="48" alt="Customer Testimonails">
                                                     <div>
-                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Sarah J.</a>
+                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Hafiz
+                                                                Kurniawan</a>
                                                         </h4>
                                                         <small class="text-muted">10 days ago</small>
                                                     </div>
@@ -236,7 +237,7 @@
                                                         src="{{ asset('webpage/demos/articles/images/authors/1.jpg') }}"
                                                         width="48" height="48" alt="Customer Testimonails">
                                                     <div>
-                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">David T</a>
+                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Yohanes</a>
                                                         </h4>
                                                         <small class="text-muted">15 days ago</small>
                                                     </div>
@@ -266,8 +267,7 @@
                                                         src="{{ asset('webpage/demos/articles/images/authors/3.jpg') }}"
                                                         width="48" height="48" alt="Customer Testimonails">
                                                     <div>
-                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Dr.
-                                                                Emill</a>
+                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Rahmawati</a>
                                                         </h4>
                                                         <small class="text-muted">24 days ago</small>
                                                     </div>
