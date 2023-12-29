@@ -104,7 +104,7 @@
                                         <div>Who We Are</div>
                                     </a>
                                     </a>
-                                    <a class="text-white op-09 h-op-1" href="#">
+                                    <a class="text-white op-09 h-op-1" href="https://wa.me/6283121102969">
                                         <div>Contact Us</div>
                                     </a>
 
@@ -195,7 +195,7 @@
                                 <h4>Supports</h4>
 
                                 <ul>
-                                    <li><a href="/contact">Contact Us</a></li>
+                                    <li><a href="https://wa.me/6283121102969">Contact Us</a></li>
                                     <li><a href="/about">About Us</a></li>
                                 </ul>
 
