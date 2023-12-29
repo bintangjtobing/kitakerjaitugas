@@ -12283,7 +12283,7 @@ textarea.form-control-lg {
 }
 :root {
   --cnvs-themecolor:	#2f628d;
-  --cnvs-themecolor-rgb:	rgb(47, 98, 141);
+  --cnvs-themecolor-rgb:	rgba(47, 98, 141,1);
   --bs-link-color:	var(--cnvs-themecolor);
   --bs-link-color-rgb:	var(--cnvs-themecolor-rgb);
   --bs-link-hover-color:	var(--cnvs-heading-color);
@@ -28085,7 +28085,7 @@ label.error {
 	Footer
 -----------------------------------------------------------------*/
 #footer {
-  --cnvs-footer-top-border: 5px solid rgba(var(--cnvs-contrast-rgb), 0.15);
+  --cnvs-footer-top-border: 5px solid rgba(var(--cnvs-contrast-rgb), 1);
   position: relative;
   background-color: var(--cnvs-footer-bg);
   border-top: var(--cnvs-footer-top-border);
