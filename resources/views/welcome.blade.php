@@ -157,7 +157,7 @@
 
         <!-- Footer
   ============================================= -->
-        <footer id="footer" class="bg-color dark border-warning">
+        <footer id="footer" class="bg-color dark border-info">
             <div class="container">
 
                 <!-- Footer Widgets

@@ -2,7 +2,7 @@
 @section('title', 'Home')
 @section('content')
     <!-- Hero
-                      ============================================= -->
+                                                                                  ============================================= -->
     <section id="slider" class="slider-element dark min-vh-md-100 min-vh-75 include-header">
         <div class="slider-inner"
             style="background-image: linear-gradient(to bottom, rgba(0,0,0,.5), rgba(0,0,0,.3)), url('https://res.cloudinary.com/boxity-id/image/upload/w_1000/q_auto:best/f_auto/v1703784802/hero_htezkm.jpg');background-position: 50% 0;">
@@ -14,7 +14,7 @@
                             <div
                                 class="before-title text-border-right position-relative text-uppercase ls-3 text-smaller overflow-hidden mb-4 op-04 b-w-50">
                                 RUN Statistik</div>
-                            <h2 class="display-4 fw-bold">Solusi Data Lengkap untuk Bisnis Anda</h2>
+                            <h2 class="display-4 fw-bold">Solusi Analisis Dan Pengolahan Data Anda</h2>
                         </div>
                     </div>
                 </div>
@@ -24,7 +24,7 @@
     </section>
 
     <!-- Content
-                    ============================================= -->
+                                                                                ============================================= -->
     <section id="content">
         <div class="content-wrap overflow-visible py-0">
 
@@ -82,12 +82,12 @@
                     <div class="col-lg-5 p-5">
                         <i class="material-symbols-outlined display-4 color mb-3">verified</i>
                         <h2 class="h1 fw-bold lh-sm">Tujuan RUN Statistik adalah
-                            Membantu masyarakat untuk <span class="stabiloPenting">memahami data</span> dan
-                            menggunakannya untuk membuat keputusan yang lebih baik.
+                            Membantu masyarakat untuk <span class="stabiloPenting">mengelola data</span> dan menggunakannya
+                            untuk membuat keputusan yang lebih baik.
                         </h2>
-                        <h4 class="mt-4 fw-normal lh-base" style="line-height: 1.75 !important;">Data adalah aset
-                            yang berharga bagi masyarakat. Dengan data yang tepat, masyarakat dapat mengetahui tren
-                            yang sedang terjadi, memprediksi masa depan, dan membuat keputusan yang lebih tepat.
+                        <h4 class="mt-4 fw-normal lh-base" style="line-height: 1.75 !important;">Data adalah aset yang
+                            berharga bagi masyarakat,dengan data yang tepat, masyarakat dapat mengetahui tren yang sedang
+                            terjadi, memprediksi yang akan terjadi kedepannya, dan membuat keputusan yang lebih tepat.
                         </h4>
 
                         <a href="https://wa.me/6283121102969"
@@ -128,8 +128,8 @@
 
                                         <div class="col-12 mb-4">
                                             <label for="lawfirm-inline-lawyer">
-                                                Saya ingin mencari bantuan dari Statistik Batu Jaya untuk
-                                                mengerjakan data dalam bidang
+                                                Saya ingin mencari bantuan dari Run Statistik untuk mengerjakan data dalam
+                                                bidang
                                                 <select class="required form-select" name="lawfirm-inline-lawyer"
                                                     id="lawfirm-inline-lawyer">
                                                     <option value="Instansi" selected>Instansi</option>
@@ -286,14 +286,13 @@
                         <div class="col-lg-6 align-self-center mb-6">
                             <h3 class="h2 font-secondary fw-bold mb-4 lh-base">Mengapa Menggunakan Jasa Statistik
                                 Batu Jaya?</h3>
-                            <p class="mb-5"><span class="stabiloPenting">Statistik Batu Jaya</span> adalah
-                                perusahaan yang menyediakan solusi data
-                                lengkap untuk bisnis dan masyarakat. Kami memiliki tim ahli yang berpengalaman dan
-                                bersertifikat, serta menggunakan teknologi dan metodologi terbaru untuk memberikan
-                                layanan yang berkualitas.
+                            <p class="mb-5"><span class="stabiloPenting">Run Statistik</span> adalah
+                                perusahaan yang menyediakan jasa pengolahan data untuk semua kebutuhan
+                                Anda. Kami memiliki tim ahli yang berpengalaman dan bersertifikat, serta menggunakan
+                                teknologi dan metodologi terbaru untuk memberikan layanan yang berkualitas.
                                 <br><br>
-                                Berikut adalah beberapa alasan mengapa pengguna/calon client harus menggunakan jasa
-                                Statistik Batu Jaya
+                                Berikut adalah beberapa alasan mengapa pengguna/calon client harus menggunakan jasa Run
+                                Statistik
                             </p>
                             <div class="row g-4">
                                 <div class="col-sm-6">
@@ -303,9 +302,9 @@
                                             bersertifikat</h3>
                                     </div>
                                     <p class="text-white op-06">Kami memiliki tim ahli yang memiliki pengalaman dan
-                                        pengetahuan yang luas di bidang statistik. Mereka telah terlatih dan
-                                        tersertifikasi dalam berbagai bidang, termasuk analisis data, olah data,
-                                        pemrograman data, visualisasi data, dan konsultansi data.</p>
+                                        pengetahuan yang luas di bidang statistik. Mereka telah terlatih dan tersertifikasi
+                                        dalam berbagai bidang, termasuk analisis dan pengolahan data, pemrograman data,
+                                        visualisasi data, dan konsultansi data</p>
                                 </div>
 
                                 <div class="col-sm-6">
@@ -313,10 +312,11 @@
                                         <i class="material-symbols-outlined text-info fs-2 mb-0">qr_code_scanner</i>
                                         <h3 class="h6 fw-bold ms-2 mb-0">Teknologi dan metodologi terbaru</h3>
                                     </div>
-                                    <p class="text-white op-06">Kami menggunakan teknologi dan metodologi terbaru
-                                        untuk memberikan layanan yang berkualitas. Kami selalu mengikuti
-                                        perkembangan terbaru di bidang statistik, sehingga kami dapat memberikan
-                                        solusi yang paling sesuai dengan kebutuhan Anda.</p>
+                                    <p class="text-white op-06">Kami menggunakan teknologi dan metodologi terbaru untuk
+                                        memberikan layanan yang berkualitas. Kami selalu mengikuti perkembangan terbaru di
+                                        bidang statistik, sehingga kami dapat memberikan solusi yang paling sesuai dengan
+                                        kebutuhan Anda.
+                                    </p>
                                 </div>
 
                                 <div class="col-sm-6">
@@ -324,10 +324,9 @@
                                         <i class="material-symbols-outlined text-info fs-2 mb-0">support_agent</i>
                                         <h3 class="h6 fw-bold ms-2 mb-0">Layanan yang komprehensif</h3>
                                     </div>
-                                    <p class="text-white op-06">Kami menawarkan berbagai layanan data yang dapat
-                                        membantu Anda mencapai tujuan bisnis atau pribadi Anda. Layanan kami
-                                        meliputi analisis data, olah data, pemrograman data, visualisasi data, dan
-                                        konsultansi data.
+                                    <p class="text-white op-06">Kami menawarkan berbagai layanan data yang dapat membantu
+                                        Anda dalam mencapai tujuan bisnis atau pribadi. Layanan kami meliputi analisis data
+                                        dan pengolahan data, pemrograman data, visualisasi data, dan konsultansi data.
                                     </p>
                                 </div>
 
@@ -336,10 +335,10 @@
                                         <i class="material-symbols-outlined text-info fs-2 mb-0">finance_chip</i>
                                         <h3 class="h6 fw-bold ms-2 mb-0">Harga yang kompetitif</h3>
                                     </div>
-                                    <p class="text-white op-06">Kami menawarkan harga yang kompetitif untuk semua
-                                        layanan kami. Kami memahami bahwa anggaran adalah hal yang penting, sehingga
-                                        kami berusaha untuk memberikan layanan yang berkualitas dengan harga yang
-                                        terjangkau.</p>
+                                    <p class="text-white op-06">Kami menawarkan harga yang kompetitif untuk semua layanan
+                                        kami. Kami memahami bahwa anggaran adalah hal yang penting, sehingga kami berusaha
+                                        untuk memberikan layanan yang berkualitas dengan harga yang terjangkau.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -378,8 +377,8 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-center col-mb-30 mx-md mx-auto">
                         <div class="col-sm-12 col-md">
-                            <h3 class="h3 font-secondary fw-semibold mb-0">Jangan malu untuk <span
-                                    class="border-bottom border-warning border-width-3">Berdiskusi langsung</span>!
+                            <h3 class="h3 font-secondary fw-semibold mb-0">Uji Apa Aja, <span
+                                    class="border-bottom border-info border-width-3">Uji Lebih Mudah!</span>!
                             </h3>
                         </div>
                         <div class="col-sm-12 col-md-auto">
