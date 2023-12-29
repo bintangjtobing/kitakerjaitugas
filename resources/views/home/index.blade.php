@@ -2,7 +2,7 @@
 @section('title', 'Home')
 @section('content')
     <!-- Hero
-                                                                                                              ============================================= -->
+                                                                                                                  ============================================= -->
     <section id="slider" class="slider-element dark min-vh-md-100 min-vh-75 include-header">
         <div class="slider-inner"
             style="background-image: linear-gradient(to bottom, rgba(0,0,0,.5), rgba(0,0,0,.3)), url('https://res.cloudinary.com/boxity-id/image/upload/w_1000/q_auto:best/f_auto/v1703784802/hero_htezkm.jpg');background-position: 50% 0;">
@@ -24,7 +24,7 @@
     </section>
 
     <!-- Content
-                                                                                                            ============================================= -->
+                                                                                                                ============================================= -->
     <section id="content">
         <div class="content-wrap overflow-visible py-0">
 
@@ -385,8 +385,8 @@
                             </h3>
                         </div>
                         <div class="col-sm-12 col-md-auto">
-                            <a href="https://wa.me/6283121102969" data-scrollto="#section-contact"
-                                data-easing="easeInOutExpo" data-speed="1250" data-offset="88"
+                            <a href="https://wa.me/6283121102969" target="_blank" data-easing="easeInOutExpo"
+                                data-speed="1250" data-offset="88"
                                 class="btn py-3 px-5 rounded-1 btn-dark bg-color h-op-09 m-0">Contact Us <span
                                     class="material-symbols-outlined align-middle mb-1 ms-1">trending_flat</span></a>
                         </div>
