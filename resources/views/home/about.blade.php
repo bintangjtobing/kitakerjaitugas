@@ -179,8 +179,6 @@
                             </div>
                             <h3 class="h3 font-secondary fw-bold mb-4">Apa ya review dari teman-teman yang sudah
                                 menggunakan jasa kami</h3>
-                            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-                                quibusdam possimus aut itaque quo ex et dignissimos fuga animi id.</p>
                         </div>
 
                         <div class="col-lg-7">
@@ -190,19 +188,19 @@
                                         <div class="card-body p-4">
                                             <div class="row">
                                                 <div class="col-12">
-                                                    <p class="mb-4 font-secondary">Lorem ipsum dolor sit amet
-                                                        consectetur adipisicing elit. Deserunt, ipsam! Voluptas iure
-                                                        explicabo blanditiis ullam neque possimus sit libero ex
-                                                        alias pariatur, earum quam veniam voluptatum expedita quos
-                                                        aspernatur dolor?</p>
+                                                    <p class="mb-4 font-secondary">Statistik Batu Jaya adalah penyelamat
+                                                        untuk proyek akhir saya! Tim mereka sangat ramah dan sabar,
+                                                        membimbing saya melalui setiap langkah analisis. Mereka bahkan
+                                                        membantu saya menafsirkan hasil dengan cara yang masuk akal untuk
+                                                        presentasi saya. Saya mendapat nilai A! Terima kasih, Statistik Batu
+                                                        Jaya!</p>
                                                 </div>
                                                 <div class="d-flex align-items-center">
                                                     <img class="rounded-circle me-3"
                                                         src="{{ asset('webpage/demos/articles/images/authors/2.jpg') }}"
                                                         width="48" height="48" alt="Customer Testimonails">
                                                     <div>
-                                                        <h4 class="h6 mb-0 fw-medium"><a
-                                                                href="https://themeforest.net/ratings/3295792">Shartois</a>
+                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Sarah J.</a>
                                                         </h4>
                                                         <small class="text-muted">10 days ago</small>
                                                     </div>
@@ -216,19 +214,21 @@
                                         <div class="card-body p-4">
                                             <div class="row">
                                                 <div class="col-12">
-                                                    <p class="mb-4 font-secondary">Lorem ipsum dolor sit amet
-                                                        consectetur adipisicing elit. Deserunt, ipsam! Voluptas iure
-                                                        explicabo blanditiis ullam neque possimus sit libero ex
-                                                        alias pariatur, earum quam veniam voluptatum expedita quos
-                                                        aspernatur dolor?</p>
+                                                    <p class="mb-4 font-secondary">Saya sudah berkecimpung di dunia data
+                                                        selama bertahun-tahun, dan saya telah melihat banyak perusahaan
+                                                        analisis data. Statistik Batu Jaya menonjol dari keramaian. Tim
+                                                        mereka adalah yang terbaik, teknologi mereka mutakhir, dan hasil
+                                                        mereka selalu dapat ditindaklanjuti. Mereka membantu kami
+                                                        mengidentifikasi tren utama dalam data pelanggan kami yang akan kami
+                                                        lewatkan jika tidak. Kami sudah melihat dampak positif pada laba
+                                                        kami.</p>
                                                 </div>
                                                 <div class="d-flex align-items-center">
                                                     <img class="rounded-circle me-3"
                                                         src="{{ asset('webpage/demos/articles/images/authors/1.jpg') }}"
                                                         width="48" height="48" alt="Customer Testimonails">
                                                     <div>
-                                                        <h4 class="h6 mb-0 fw-medium"><a
-                                                                href="https://themeforest.net/ratings/3297954">Framex</a>
+                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">David T</a>
                                                         </h4>
                                                         <small class="text-muted">15 days ago</small>
                                                     </div>
@@ -243,19 +243,23 @@
                                         <div class="card-body p-4">
                                             <div class="row">
                                                 <div class="col-12">
-                                                    <p class="mb-4 font-secondary">Lorem ipsum dolor sit amet
-                                                        consectetur adipisicing elit. Deserunt, ipsam! Voluptas iure
-                                                        explicabo blanditiis ullam neque possimus sit libero ex
-                                                        alias pariatur, earum quam veniam voluptatum expedita quos
-                                                        aspernatur dolor?</p>
+                                                    <p class="mb-4 font-secondary">Awalnya saya ragu untuk mengalihdayakan
+                                                        analisis data kami, tetapi Statistik Batu Jaya dengan cepat
+                                                        memenangkan saya. Tim ahli statistik mereka memahami kompleksitas
+                                                        penelitian kami dan dapat memberikan wawasan mendalam yang tidak
+                                                        dapat kami capai sendiri. Mereka juga sangat teliti dalam
+                                                        dokumentasi dan komunikasi mereka, memastikan bahwa kami selalu
+                                                        sejalan. Saya sangat merekomendasikan Statistik Batu Jaya kepada
+                                                        peneliti yang membutuhkan analisis data yang andal dan berkualitas
+                                                        tinggi.</p>
                                                 </div>
                                                 <div class="d-flex align-items-center">
                                                     <img class="rounded-circle me-3"
                                                         src="{{ asset('webpage/demos/articles/images/authors/3.jpg') }}"
                                                         width="48" height="48" alt="Customer Testimonails">
                                                     <div>
-                                                        <h4 class="h6 mb-0 fw-medium"><a
-                                                                href="https://themeforest.net/ratings/3304063">JasonJSW</a>
+                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Dr.
+                                                                Emill</a>
                                                         </h4>
                                                         <small class="text-muted">24 days ago</small>
                                                     </div>
