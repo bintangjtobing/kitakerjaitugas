@@ -30,12 +30,12 @@
                 <div class="row col-mb-50 mb-0">
                     <div class="col-lg-12">
                         <div class="heading-block fancy-title border-bottom-0 title-bottom-border">
-                            <h4>Tentang <span>Statistik Batu Jaya</span></h4>
+                            <h4>Tentang <span>RUN Statistik</span></h4>
                         </div>
 
                         <p>
                             Sebagai kekuatan pendorong di dunia bisnis, data tidak lagi sekadar angka, melainkan aset
-                            fundamental bagi setiap perusahaan. Memahami hal ini, Statistik Batu Jaya berdiri pada tahun
+                            fundamental bagi setiap perusahaan. Memahami hal ini, RUN Statistik berdiri pada tahun
                             2020 sebagai solusi komprehensif dalam mengelola data Anda. Dengan semangat inovasi dari para
                             ahli analisis data, kami telah berkembang pesat dan siap membantu perusahaan Anda meraih
                             kesuksesan.
@@ -43,7 +43,7 @@
                             Kami tidak hanya menyajikan data mentah, tetapi juga mengekstraknya menjadi informasi berharga
                             yang dapat memprediksi tren masa depan dan meminimalisir risiko pengambilan keputusan. Apakah
                             Anda kesulitan menemukan pola dalam data Anda? Ingin memprediksi dampak kebijakan baru?
-                            Statistik Batu Jaya hadir untuk menjadi mitra terpercaya dalam perjalanan growth hacking
+                            RUN Statistik hadir untuk menjadi mitra terpercaya dalam perjalanan growth hacking
                             perusahaan Anda.
                             <br><br>
                             Dengan solusi pengelolaan data yang terintegrasi dan tim ahli yang berpengalaman, kami siap
@@ -58,7 +58,7 @@
                         </div>
 
                         <p>
-                            Statistik Batu Jaya menawarkan berbagai keunggulan dalam jasa analisis data dan olah data,
+                            RUN Statistik menawarkan berbagai keunggulan dalam jasa analisis data dan olah data,
                             antara lain:
                         </p>
                         <ul>
