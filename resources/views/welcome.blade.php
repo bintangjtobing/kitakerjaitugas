@@ -22,16 +22,16 @@
         rel="stylesheet">
 
     <!-- Core Style -->
-    <link rel="stylesheet" href="{{ asset('webpage/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('webpage/style.css?' . rand(10000, 99999)) }}">
 
     <!-- Font Icons -->
-    <link rel="stylesheet" href="{{ asset('webpage/css/font-icons.css') }}">
+    <link rel="stylesheet" href="{{ asset('webpage/css/font-icons.css?' . rand(10000, 99999)) }}">
 
     <!-- Niche Demos -->
-    <link rel="stylesheet" href="{{ asset('webpage/demos/law-firm/law-firm.css') }}">
+    <link rel="stylesheet" href="{{ asset('webpage/demos/law-firm/law-firm.css?' . rand(10000, 99999)) }}">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ asset('webpage/css/custom.css') }}">
+    <link rel="stylesheet" href="{{ asset('webpage/css/custom.css?' . rand(10000, 99999)) }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- SITE TITLE -->
@@ -259,7 +259,7 @@
 
     <!-- JavaScripts
  ============================================= -->
-    <script src=" {{ asset('webpage/js/functions.js') }}"></script>
+    <script src=" {{ asset('webpage/js/functions.js?' . rand(10000, 99999)) }}"></script>
 
 </body>
 
