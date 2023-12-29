@@ -200,7 +200,7 @@
                                                         src="{{ asset('webpage/demos/articles/images/authors/2.jpg') }}"
                                                         width="48" height="48" alt="Customer Testimonails">
                                                     <div>
-                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Sarah J.</a>
+                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Rahmawati</a>
                                                         </h4>
                                                         <small class="text-muted">10 days ago</small>
                                                     </div>
@@ -228,7 +228,7 @@
                                                         src="{{ asset('webpage/demos/articles/images/authors/1.jpg') }}"
                                                         width="48" height="48" alt="Customer Testimonails">
                                                     <div>
-                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">David T</a>
+                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Yohanes</a>
                                                         </h4>
                                                         <small class="text-muted">15 days ago</small>
                                                     </div>
@@ -258,8 +258,8 @@
                                                         src="{{ asset('webpage/demos/articles/images/authors/3.jpg') }}"
                                                         width="48" height="48" alt="Customer Testimonails">
                                                     <div>
-                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Dr.
-                                                                Emill</a>
+                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Hafiz
+                                                                Kurniawan</a>
                                                         </h4>
                                                         <small class="text-muted">24 days ago</small>
                                                     </div>

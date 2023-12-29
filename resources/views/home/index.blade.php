@@ -2,7 +2,7 @@
 @section('title', 'Home')
 @section('content')
     <!-- Hero
-                                                                                                                                  ============================================= -->
+                                                                                                                                                      ============================================= -->
     <section id="slider" class="slider-element dark min-vh-md-100 min-vh-75 include-header">
         <div class="slider-inner"
             style="background-image: linear-gradient(to bottom, rgba(0,0,0,.5), rgba(0,0,0,.3)), url('https://res.cloudinary.com/boxity-id/image/upload/w_1000/q_auto:best/f_auto/v1703784802/hero_htezkm.jpg');background-position: 50% 0;">
@@ -24,7 +24,7 @@
     </section>
 
     <!-- Content
-                                                                                                                                ============================================= -->
+                                                                                                                                                    ============================================= -->
     <section id="content">
         <div class="content-wrap overflow-visible py-0">
 
@@ -118,13 +118,13 @@
                                         will contact you asap on your email Address.</h4>
                                 </div>
 
-                                <form class="mb-0" id="lawfirm-inline" name="lawfirm-inline" action="include/form.php"
-                                    method="post" enctype="multipart/form-data">
+                                <form class="mb-0" id="lawfirm-inline" name="lawfirm-inline"
+                                    action="{!! asset('webpage/include/form.php') !!}" method="post" enctype="multipart/form-data">
 
                                     <div class="row">
 
                                         <div class="before-title text-uppercase ls-3 text-smaller mb-3 op-05">Cari
-                                            joki?</div>
+                                            data analyst?</div>
 
                                         <div class="col-12 mb-4">
                                             <label for="lawfirm-inline-lawyer">
@@ -138,11 +138,7 @@
                                                     <option value="Instansi Swasta" selected>Instansi Swasta</option>
                                                     <option value="Komunitas" selected>Komunitas</option>
                                                 </select>
-                                                yang berlokasi di
-                                                <select class="required form-select" name="lawfirm-inline-industry"
-                                                    id="lawfirm-inline-industry">
-                                                    <option value="Indonesia" selected>Indonesia</option>
-                                                </select>
+                                                yang berlokasi di Indonesia
                                                 . Saya dapat dihubungi melalui
                                                 email
 
@@ -208,8 +204,7 @@
                                                         src="{{ asset('webpage/demos/articles/images/authors/2.jpg') }}"
                                                         width="48" height="48" alt="Customer Testimonails">
                                                     <div>
-                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Hafiz
-                                                                Kurniawan</a>
+                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Rahmawati</a>
                                                         </h4>
                                                         <small class="text-muted">10 days ago</small>
                                                     </div>
@@ -267,7 +262,8 @@
                                                         src="{{ asset('webpage/demos/articles/images/authors/3.jpg') }}"
                                                         width="48" height="48" alt="Customer Testimonails">
                                                     <div>
-                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Rahmawati</a>
+                                                        <h4 class="h6 mb-0 fw-medium"><a href="#">Hafiz
+                                                                Kurniawan</a>
                                                         </h4>
                                                         <small class="text-muted">24 days ago</small>
                                                     </div>
