@@ -2,7 +2,7 @@
 @section('title', 'Home')
 @section('content')
     <!-- Hero
-                                                                                                                  ============================================= -->
+                                                                                                                      ============================================= -->
     <section id="slider" class="slider-element dark min-vh-md-100 min-vh-75 include-header">
         <div class="slider-inner"
             style="background-image: linear-gradient(to bottom, rgba(0,0,0,.5), rgba(0,0,0,.3)), url('https://res.cloudinary.com/boxity-id/image/upload/w_1000/q_auto:best/f_auto/v1703784802/hero_htezkm.jpg');background-position: 50% 0;">
@@ -24,7 +24,7 @@
     </section>
 
     <!-- Content
-                                                                                                                ============================================= -->
+                                                                                                                    ============================================= -->
     <section id="content">
         <div class="content-wrap overflow-visible py-0">
 
@@ -197,7 +197,7 @@
                                         <div class="card-body p-4">
                                             <div class="row">
                                                 <div class="col-12">
-                                                    <p class="mb-4 font-secondary">Statistik Batu Jaya adalah penyelamat
+                                                    <p class="mb-4 font-secondary">RUN Statistik adalah penyelamat
                                                         untuk proyek akhir saya! Tim mereka sangat ramah dan sabar,
                                                         membimbing saya melalui setiap langkah analisis. Mereka bahkan
                                                         membantu saya menafsirkan hasil dengan cara yang masuk akal untuk
@@ -225,7 +225,7 @@
                                                 <div class="col-12">
                                                     <p class="mb-4 font-secondary">Saya sudah berkecimpung di dunia data
                                                         selama bertahun-tahun, dan saya telah melihat banyak perusahaan
-                                                        analisis data. Statistik Batu Jaya menonjol dari keramaian. Tim
+                                                        analisis data. RUN Statistik menonjol dari keramaian. Tim
                                                         mereka adalah yang terbaik, teknologi mereka mutakhir, dan hasil
                                                         mereka selalu dapat ditindaklanjuti. Mereka membantu kami
                                                         mengidentifikasi tren utama dalam data pelanggan kami yang akan kami
@@ -253,12 +253,12 @@
                                             <div class="row">
                                                 <div class="col-12">
                                                     <p class="mb-4 font-secondary">Awalnya saya ragu untuk mengalihdayakan
-                                                        analisis data kami, tetapi Statistik Batu Jaya dengan cepat
+                                                        analisis data kami, tetapi RUN Statistik dengan cepat
                                                         memenangkan saya. Tim ahli statistik mereka memahami kompleksitas
                                                         penelitian kami dan dapat memberikan wawasan mendalam yang tidak
                                                         dapat kami capai sendiri. Mereka juga sangat teliti dalam
                                                         dokumentasi dan komunikasi mereka, memastikan bahwa kami selalu
-                                                        sejalan. Saya sangat merekomendasikan Statistik Batu Jaya kepada
+                                                        sejalan. Saya sangat merekomendasikan RUN Statistik kepada
                                                         peneliti yang membutuhkan analisis data yang andal dan berkualitas
                                                         tinggi.</p>
                                                 </div>
