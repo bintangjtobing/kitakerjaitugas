@@ -2,7 +2,7 @@
 @section('title', 'Home')
 @section('content')
     <!-- Hero
-                                                                                                          ============================================= -->
+                                                                                                              ============================================= -->
     <section id="slider" class="slider-element dark min-vh-md-100 min-vh-75 include-header">
         <div class="slider-inner"
             style="background-image: linear-gradient(to bottom, rgba(0,0,0,.5), rgba(0,0,0,.3)), url('https://res.cloudinary.com/boxity-id/image/upload/w_1000/q_auto:best/f_auto/v1703784802/hero_htezkm.jpg');background-position: 50% 0;">
@@ -24,7 +24,7 @@
     </section>
 
     <!-- Content
-                                                                                                        ============================================= -->
+                                                                                                            ============================================= -->
     <section id="content">
         <div class="content-wrap overflow-visible py-0">
 
@@ -381,8 +381,7 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-center col-mb-30 mx-md mx-auto">
                         <div class="col-sm-12 col-md">
-                            <h3 class="h3 font-secondary fw-semibold mb-0">Uji Apa Aja, <span
-                                    class="border-bottom border-info border-width-3">Uji Lebih Mudah!</span>!
+                            <h3 class="h3 font-secondary fw-semibold mb-0">Uji Apa Aja, Uji Lebih Mudah!
                             </h3>
                         </div>
                         <div class="col-sm-12 col-md-auto">
